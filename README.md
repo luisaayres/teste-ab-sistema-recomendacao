@@ -50,7 +50,7 @@ Os resultados não fornecem evidências suficientes para recomendar a implementa
 
 Também foram identificadas limitações na execução do experimento, como usuários presentes nos dois grupos, diferenças na distribuição de eventos e possível incompletude dos dados no último dia. Recomenda-se revisar o desenho experimental e realizar um novo teste com grupos adequadamente controlados e uma janela de observação comparável.
 
-📓 Notebook
+## 📓 Notebook
 
 A análise completa pode ser consultada no notebook:
 
